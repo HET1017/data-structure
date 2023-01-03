@@ -1,5 +1,3 @@
-package çalýþma;
-
 
 public class ornek
 {
